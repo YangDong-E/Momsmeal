@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/momsmeal/static/css/main.a617e044.chunk.css",
+    "main.js": "/momsmeal/static/js/main.ff43ce61.chunk.js",
+    "main.js.map": "/momsmeal/static/js/main.ff43ce61.chunk.js.map",
+    "runtime-main.js": "/momsmeal/static/js/runtime-main.35a7ccf7.js",
+    "runtime-main.js.map": "/momsmeal/static/js/runtime-main.35a7ccf7.js.map",
+    "static/js/2.c52a40c5.chunk.js": "/momsmeal/static/js/2.c52a40c5.chunk.js",
+    "static/js/2.c52a40c5.chunk.js.map": "/momsmeal/static/js/2.c52a40c5.chunk.js.map",
+    "static/js/3.3cfca0d1.chunk.js": "/momsmeal/static/js/3.3cfca0d1.chunk.js",
+    "static/js/3.3cfca0d1.chunk.js.map": "/momsmeal/static/js/3.3cfca0d1.chunk.js.map",
+    "index.html": "/momsmeal/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/momsmeal/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c52a40c5.chunk.js.LICENSE.txt": "/momsmeal/static/js/2.c52a40c5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/momsmeal/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35a7ccf7.js",
+    "static/js/2.c52a40c5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ff43ce61.chunk.js"
+  ]
+}
